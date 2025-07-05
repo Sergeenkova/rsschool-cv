@@ -27,14 +27,14 @@ Code Basics CSS course
 JavaScript - Полный Курс JavaScript Для Начинающих
 
 ## Experience
-Production engineer  
-Minsk Automobile Plant, Minsk, Belarus 
-
-Client service specialist  
-Stremline Language School, Minsk, Belarus    
-
 Lead L&D specialist  
 EPAM Systems, Minsk, Belarus
+
+Client service specialist  
+Stremline Language School, Minsk, Belarus  
+
+Production engineer  
+Minsk Automobile Plant, Minsk, Belarus   
 
 ## Skills
 * Git & GitHub
