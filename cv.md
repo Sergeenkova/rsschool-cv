@@ -35,3 +35,41 @@ Stremline Language School, Minsk, Belarus
 
 Lead L&D specialist  
 EPAM Systems, Minsk, Belarus
+
+## Skills
+* Git & GitHub
+* HTML
+* CSS
+* Jira/Confluence
+* JavaScript Basics
+
+## Code Example
+
+```
+function multiply(a, b){
+    return a * b;
+}
+```
+```
+function makeNegative (n) {
+  if (n>0) {return -n;}
+  else {return n;}
+}
+```
+```
+function sum_Of_Digits(n) {
+  if (n < 0) n = -n
+  let result = 0
+  while (n > 0) 
+   {
+    result += n % 10
+    n = Math.floor(n / 10)
+  }
+  return result
+}
+  ```
+## Languages
+* Russian (native)
+* Belarussian (native)
+* English (IELTS Academic 2015: Speaking B2+, Writing C1)
+* Polish (Egzamin Państwowy 2025: B1)
