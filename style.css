@@ -55,3 +55,47 @@ body {
   color: #284b4b;
   background-color: #c4dbdb;
 }
+
+.section-title {
+    margin: 15px 0 10px 0;
+  }
+
+.main-container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.section {
+  width: 50%;
+  padding-left: 50px;
+  padding-bottom: 30px;
+}
+
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+.contact-information {
+  position: absolute;
+  top: 50px;
+}
+
+.contact-information span {
+  font-weight: bold;
+}
+
+.contact {
+  width: 15px;
+  height: 15px;
+  margin-right: 15px;
+}
+
+.position-title {
+  font-size: 20px;
+  margin: 0 0 20px 0;
+}
