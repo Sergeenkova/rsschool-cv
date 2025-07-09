@@ -99,3 +99,37 @@ body {
   font-size: 20px;
   margin: 0 0 20px 0;
 }
+
+.education p {
+  margin: 0 auto;
+}
+
+.my-list{
+  padding-left: 0;
+}
+
+.my-code {
+  font-weight: bold;
+  font-size: larger;
+}
+
+.no-bullets {
+  list-style: none;
+}
+
+.underline {
+  position: relative;
+  display: inline-block; 
+  color: #284b4b;
+  text-decoration: none; 
+}
+
+.underline::after {
+  content: '';
+  position: absolute;
+  left: 25px;
+  bottom: 0;
+  height: 3px;
+  width: 90%;
+  background-color: #3bb5b3;
+}
